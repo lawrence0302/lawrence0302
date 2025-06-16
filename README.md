@@ -33,7 +33,7 @@ Segment performance by channels, regions, or customer demographics.
 Visualize trends and compare campaign effectiveness.
 The goal is to uncover actionable insights that help optimize marketing strategies and improve return on investment.
 
-iv: 
+iv: https://github.com/lawrence0302/lawrence0302/blob/main/Credit_Card_Fraud_Detection.ipynb
 
 To build a machine learning model that detects fraudulent credit card transactions accurately and efficiently, especially focusing on minimizing false negatives.
 
