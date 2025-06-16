@@ -32,3 +32,13 @@ Calculate key metrics such as conversion rate, CTR, and ROI.
 Segment performance by channels, regions, or customer demographics.
 Visualize trends and compare campaign effectiveness.
 The goal is to uncover actionable insights that help optimize marketing strategies and improve return on investment.
+
+iv: 
+
+To build a machine learning model that detects fraudulent credit card transactions accurately and efficiently, especially focusing on minimizing false negatives.
+
+This project demonstrates how machine learning can effectively detect fraudulent credit card transactions, even in highly imbalanced datasets. By focusing on minimizing false negatives and optimizing for recall, the model can act as a reliable decision-support tool for financial institutions.
+Key takeaways:
+Handling class imbalance is critical.
+Feature scaling and algorithm selection greatly influence model success.
+Real-time fraud detection is feasible with a well-trained ML model.
